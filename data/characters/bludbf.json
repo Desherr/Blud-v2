@@ -1,0 +1,209 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"applyStageMatrix": false,
+	"scale": 1,
+	"name": "BoyFriend (BLUD)",
+	"flipX": true,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"assetPath": "characters/Bludbf",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"id": "bludbf",
+		"flipX": false,
+		"isPixel": false,
+		"scale": 1
+	},
+	"atlasSettings": {
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false,
+		"swfMode": true
+	},
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "bf idle000",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				12,
+				-6
+			],
+			"frameRate": 24,
+			"prefix": "bf left0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				30,
+				-20
+			],
+			"frameRate": 24,
+			"prefix": "bf down0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-49,
+				7
+			],
+			"frameRate": 24,
+			"prefix": "bf up0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-108,
+				-37
+			],
+			"frameRate": 24,
+			"prefix": "bf right0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				12,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss est0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				13,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss south0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				13,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss north0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				11,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss west0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				13,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss west0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "firstDeath"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				13,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss west0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "fakeoutDeath"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				13,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss west0",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				13,
+				-136
+			],
+			"frameRate": 24,
+			"prefix": "bf miss west0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm"
+		}
+	]
+}

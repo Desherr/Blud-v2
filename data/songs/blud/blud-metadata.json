@@ -1,0 +1,41 @@
+{
+ "version": "2.2.4",
+ "songName": "Blud",
+ "artist": "kyr0ma",
+ "charter": "kyr0ma",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bludbf",
+   "girlfriend": "bludgf",
+   "opponent": "blud",
+   "opponentVocals": [
+    "blud"
+   ],
+   "playerVocals": [
+    "bf"
+   ]
+  },
+  "stage": "mainStage",
+  "noteStyle": "funkin",
+  "stickerPack": "blud-standar-1",
+  "ratings": {
+   "hard": 14
+  },
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 124,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

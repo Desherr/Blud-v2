@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blud.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blud down0000" x="5" y="5" width="467" height="393" frameX="0" frameY="0" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0001" x="5" y="5" width="467" height="393" frameX="0" frameY="0" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0002" x="5" y="5" width="467" height="393" frameX="0" frameY="0" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0003" x="5" y="5" width="467" height="393" frameX="0" frameY="0" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0004" x="477" y="5" width="440" height="383" frameX="-12" frameY="-9" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0005" x="922" y="5" width="481" height="402" frameX="-12" frameY="-33" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0006" x="1408" y="5" width="481" height="390" frameX="-12" frameY="-33" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0007" x="1894" y="5" width="504" height="390" frameX="-12" frameY="-33" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0008" x="2403" y="5" width="496" height="359" frameX="-12" frameY="-33" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0009" x="2904" y="5" width="496" height="359" frameX="-12" frameY="-33" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud down0010" x="3405" y="5" width="496" height="359" frameX="-12" frameY="-33" frameWidth="516" frameHeight="435"/>
+	<SubTexture name="blud idle0000" x="5" y="412" width="291" height="591" frameX="-7" frameY="-13" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0001" x="5" y="412" width="291" height="591" frameX="-7" frameY="-13" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0002" x="301" y="412" width="289" height="588" frameX="-5" frameY="-16" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0003" x="301" y="412" width="289" height="588" frameX="-5" frameY="-16" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0004" x="595" y="412" width="299" height="598" frameX="-3" frameY="-6" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0005" x="595" y="412" width="299" height="598" frameX="-3" frameY="-6" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0006" x="899" y="412" width="306" height="601" frameX="0" frameY="-3" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0007" x="899" y="412" width="306" height="601" frameX="0" frameY="-3" frameWidth="310" frameHeight="604"/>
+	<SubTexture name="blud idle0008" x="1210" y="412" width="310" height="604"/>
+	<SubTexture name="blud idle0009" x="1210" y="412" width="310" height="604"/>
+	<SubTexture name="blud idle0010" x="1210" y="412" width="310" height="604"/>
+	<SubTexture name="blud idle0011" x="1210" y="412" width="310" height="604"/>
+	<SubTexture name="blud idle0012" x="1210" y="412" width="310" height="604"/>
+	<SubTexture name="blud idle0013" x="1210" y="412" width="310" height="604"/>
+	<SubTexture name="blud left0000" x="1525" y="412" width="342" height="471" frameX="-382" frameY="-1" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0001" x="1525" y="412" width="342" height="471" frameX="-382" frameY="-1" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0002" x="1872" y="412" width="334" height="472" frameX="-390" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0003" x="1872" y="412" width="334" height="472" frameX="-390" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0004" x="1872" y="412" width="334" height="472" frameX="-390" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0005" x="2211" y="412" width="314" height="472" frameX="-408" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0006" x="2530" y="412" width="341" height="472" frameX="-322" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0007" x="2876" y="412" width="529" height="472" frameX="-134" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0008" x="3410" y="412" width="663" height="472" frameX="0" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0009" x="5" y="1021" width="488" height="472" frameX="-175" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0010" x="498" y="1021" width="576" height="472" frameX="-175" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0011" x="1079" y="1021" width="255" height="472" frameX="-408" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0012" x="1079" y="1021" width="255" height="472" frameX="-408" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud left0013" x="1079" y="1021" width="255" height="472" frameX="-408" frameY="0" frameWidth="751" frameHeight="472"/>
+	<SubTexture name="blud right0000" x="1339" y="1021" width="354" height="634" frameX="-108" frameY="0" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0001" x="1339" y="1021" width="354" height="634" frameX="-108" frameY="0" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0002" x="1698" y="1021" width="354" height="634" frameX="-108" frameY="0" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0003" x="1698" y="1021" width="354" height="634" frameX="-108" frameY="0" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0004" x="1698" y="1021" width="354" height="634" frameX="-108" frameY="0" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0005" x="2057" y="1021" width="316" height="612" frameX="-64" frameY="-22" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0006" x="2378" y="1021" width="357" height="469" frameX="0" frameY="-165" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0007" x="2740" y="1021" width="295" height="459" frameX="-85" frameY="-175" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0008" x="3040" y="1021" width="570" height="459" frameX="-108" frameY="-175" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0009" x="5" y="1660" width="917" height="459" frameX="-108" frameY="-175" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0010" x="927" y="1660" width="1111" height="459" frameX="-108" frameY="-175" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud right0011" x="2043" y="1660" width="249" height="459" frameX="-108" frameY="-175" frameWidth="1219" frameHeight="634"/>
+	<SubTexture name="blud up0000" x="2297" y="1660" width="200" height="708" frameX="-2" frameY="0" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0001" x="2297" y="1660" width="200" height="708" frameX="-2" frameY="0" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0002" x="2502" y="1660" width="206" height="664" frameX="0" frameY="-44" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0003" x="2713" y="1660" width="206" height="661" frameX="0" frameY="-47" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0004" x="2924" y="1660" width="206" height="678" frameX="0" frameY="-30" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0005" x="3135" y="1660" width="206" height="656" frameX="0" frameY="-52" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0006" x="3346" y="1660" width="206" height="656" frameX="0" frameY="-52" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0007" x="3346" y="1660" width="206" height="656" frameX="0" frameY="-52" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0008" x="3346" y="1660" width="206" height="656" frameX="0" frameY="-52" frameWidth="220" frameHeight="708"/>
+	<SubTexture name="blud up0009" x="3557" y="1660" width="220" height="622" frameX="0" frameY="-86" frameWidth="220" frameHeight="708"/>
+</TextureAtlas>

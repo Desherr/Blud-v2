@@ -1,0 +1,63 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-750, -306],
+      "scale": [1.80, 1.80],
+      "animType": "sparrow",
+      "name": "floor",
+      "isPixel": false,
+      "assetPath": "Blud-stage/floor",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 20,
+      "position": [-786, -265],
+      "scale": [1.60, 1.50],
+      "animType": "sparrow",
+      "name": "furn",
+      "isPixel": false,
+      "assetPath": "Blud-stage/furn",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 3000,
+      "position": [-1063, 260],
+      "scale": [1.80, 1.80],
+      "animType": "sparrow",
+      "name": "count",
+      "isPixel": false,
+      "assetPath": "Blud-stage/count",
+      "scroll": [1.3, 1.3],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 1.1,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1164.625, 876],
+      "scale": [1.25],
+      "cameraOffsets": [-120, -101]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [405.75, 867],
+      "scale": [1.25],
+      "cameraOffsets": [148, -5]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [101, 180],
+      "scale": [1.70],
+      "position": [762.25, 455.9]
+    }
+  },
+  "name": "Bludiner (BLUD) [Blud] "
+}
