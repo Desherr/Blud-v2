@@ -1,0 +1,57 @@
+{
+ "version": "1.0.2",
+ "name": "BLUD NEW",
+ "props": [
+  {
+   "assetPath": "stray_lines_grrrrrr",
+   "atlasSettings": null,
+   "name": "floor",
+   "position": [-750, -306],
+   "scale": 1.8,
+   "startingAnimation": ""
+  },
+  {
+   "assetPath": "#FFFFFF",
+   "atlasSettings": null,
+   "name": "furn",
+   "position": [-759, -260],
+   "scale": [
+	1.6,
+	1.5
+],
+   "startingAnimation": "",
+   "zIndex": 1
+  },
+  {
+   "assetPath": "546_Sem_Titulo_20260509005939",
+   "atlasSettings": null,
+   "name": "count",
+   "position": [-750, -305],
+   "scale": 1.8,
+   "startingAnimation": "",
+   "zIndex": 249
+  }
+ ],
+ "characters": {
+  "bf": {
+   "cameraOffsets": [80, -305],
+   "position": [3934.35, 2389.8],
+   "scale": 2.3,
+   "zIndex": 300
+  },
+  "dad": {
+   "cameraOffsets": [140,0],
+   "position": [1896.5, 2374.2],
+   "scale": 2.3,
+   "zIndex": 200
+  },
+  "gf": {
+   "cameraOffsets": [95, 300],
+   "position": [2807.5, 1461],
+   "scale": 3,
+   "zIndex": 250
+  }
+ },
+ "cameraZoom": 0.35
+
+}

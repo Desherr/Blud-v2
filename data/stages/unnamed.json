@@ -1,0 +1,54 @@
+{
+ "version": "1.0.2",
+ "name": "BLUD",
+ "props": [
+  {
+   "assetPath": "floor",
+   "atlasSettings": null,
+   "name": "floor",
+   "position": [-750, -306],
+   "scale": 1.8,
+   "startingAnimation": ""
+  },
+  {
+   "assetPath": "furn",
+   "atlasSettings": null,
+   "name": "furn",
+   "position": [-759, -260],
+   "scale": [
+	1.6,
+	1.5
+],
+   "startingAnimation": "",
+   "zIndex": 1
+  },
+  {
+   "assetPath": "count",
+   "atlasSettings": null,
+   "name": "count",
+   "position": [-1018, 247],
+   "scale": 1.8,
+   "startingAnimation": "",
+   "zIndex": 249
+  }
+ ],
+ "characters": {
+  "bf": {
+   "cameraOffsets": [-120, -125],
+   "position": [1140.5, 729],
+   "zIndex": 300
+  },
+  "dad": {
+   "cameraOffsets": [150, -3],
+   "position": [380, 726],
+   "zIndex": 200
+  },
+  "gf": {
+   "cameraOffsets": [95, 80],
+   "position": [764, 445.4],
+   "scale": 1.2,
+   "zIndex": 100
+  }
+ },
+ "cameraZoom": 0.7
+}
