@@ -1,12 +1,14 @@
 {
  "version": "2.2.4",
- "songName": "Blud",
+ "songName": "BLUD",
  "artist": "kyr0ma",
- "charter": "kyr0ma",
+ "charter": "kyr0ma + DiegozZz",
  "offsets": { },
  "playData": {
   "difficulties": [
    "easy",
+   "easy",
+   "normal",
    "normal",
    "hard"
   ],
@@ -18,22 +20,55 @@
     "blud"
    ],
    "playerVocals": [
-    "bf"
+    "bludbf"
    ]
   },
-  "stage": "mainStage",
+  "stage": "BLUDNEW",
   "noteStyle": "funkin",
-  "stickerPack": "blud-standar-1",
   "ratings": {
-   "hard": 14
+   "easy": 5,
+   "normal": 7,
+   "hard": 9
   },
-  "previewEnd": 0
+  "album": "volume1",
+  "stickerPack": "blud-standar-1",
+  "previewEnd": 0.0440758568694543
  },
- "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "generatedBy": "Friday Night Funkin' - v0.8.5",
  "timeChanges": [
   {
    "t": 0,
    "b": 0,
+   "bpm": 124,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 77429.1856,
+   "b": 160.0203,
+   "bpm": 134,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 106073.4601,
+   "b": 223.9925,
+   "bpm": 154,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 131003.5065,
+   "b": 287.9796,
+   "bpm": 174,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 144796.7759,
+   "b": 327.9801,
+   "bpm": 194,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 155931.8712,
+   "b": 363.9836,
    "bpm": 124,
    "bt": [4, 4, 4, 4]
   }
