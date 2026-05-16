@@ -43,7 +43,7 @@
 				0
 			],
 			"frameRate": 24,
-			"prefix": "bf idle000",
+			"prefix": "bf idle instance 1000",
 			"animType": "framelabel",
 			"flipX": false,
 			"looped": false,
@@ -56,7 +56,7 @@
 				-6
 			],
 			"frameRate": 24,
-			"prefix": "bf left0",
+			"prefix": "bf left instance 1000",
 			"animType": "framelabel",
 			"flipX": false,
 			"looped": false,
@@ -69,7 +69,7 @@
 				-20
 			],
 			"frameRate": 24,
-			"prefix": "bf down0",
+			"prefix": "bf down instance 1000",
 			"animType": "framelabel",
 			"flipX": false,
 			"looped": false,
@@ -82,7 +82,7 @@
 				7
 			],
 			"frameRate": 24,
-			"prefix": "bf up0",
+			"prefix": "bf up instance 1000",
 			"animType": "framelabel",
 			"flipX": false,
 			"looped": false,
@@ -95,7 +95,7 @@
 				-37
 			],
 			"frameRate": 24,
-			"prefix": "bf right0",
+			"prefix": "bf right instance 1000",
 			"animType": "framelabel",
 			"flipX": false,
 			"looped": false,
@@ -121,7 +121,7 @@
 				-136
 			],
 			"frameRate": 24,
-			"prefix": "bf miss south0",
+			"prefix": "bf miss south instance 1000",
 			"animType": "framelabel",
 			"flipX": false,
 			"looped": false,
@@ -204,6 +204,19 @@
 			"flipX": false,
 			"looped": false,
 			"name": "deathConfirm"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "bf YEAH! instance 1000",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "yeah"
 		}
 	]
 }
