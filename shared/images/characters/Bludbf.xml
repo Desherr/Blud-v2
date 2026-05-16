@@ -1,9 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Bludbf (1).png">
+<TextureAtlas imagePath="bludbf.png">
 	<!-- Created with Adobe Animate version 24.0.13.5 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="bf YEAH! instance 10000" x="0" y="0" width="337" height="388" frameX="-6" frameY="0" frameWidth="343" frameHeight="388"/>
 	<SubTexture name="bf YEAH! instance 10001" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10002" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10003" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10004" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10005" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10006" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10007" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10008" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10009" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10010" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10011" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10012" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10013" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
+	<SubTexture name="bf YEAH! instance 10014" x="337" y="0" width="327" height="377" frameX="0" frameY="-11" frameWidth="343" frameHeight="388"/>
 	<SubTexture name="bf down instance 10000" x="664" y="0" width="350" height="351" frameX="0" frameY="-4" frameWidth="350" frameHeight="355"/>
 	<SubTexture name="bf down instance 10001" x="664" y="0" width="350" height="351" frameX="0" frameY="-4" frameWidth="350" frameHeight="355"/>
 	<SubTexture name="bf down instance 10002" x="1014" y="0" width="348" height="355" frameX="-2" frameY="0" frameWidth="350" frameHeight="355"/>
