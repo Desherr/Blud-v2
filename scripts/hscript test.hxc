@@ -1,0 +1,53 @@
+// onCreate is called right when the script is initialized, before the stage loads
+function onCreate() {
+    trace("My custom HScript has loaded!");
+}
+
+// onCreatePost is called after the stage, characters, and UI are fully loaded
+function onCreatePost() {
+    // Example: Change the health bar colors (Hex format: 0xAARRGGBB)
+    // game.healthBar.setColors(FlxColor.RED, FlxColor.BLUE);
+}
+
+// onSongStart is called exactly when the music begins playing
+function onSongStart() {
+    trace("Let's funk!");
+}
+
+// onUpdate is called every single frame. 'elapsed' is the time since the last frame.
+function onUpdate(elapsed) {
+    // Example: Slowly rotate the Dad character
+    // game.dad.angle += 50 * elapsed;
+}
+
+// onBeatHit is called every time a beat drops
+function onBeatHit() {
+    // Example: Trigger an event every 4 beats (every measure)
+    if (curBeat % 4 == 0) {
+        // game.camGame.zoom += 0.05; // Give the camera an extra bump
+    }
+}
+
+// onStepHit is called 4 times per beat (16th notes)
+function onStepHit() {
+    // You can use this for really fast, precise timing events
+}
+
+// goodNoteHit is called when the player successfully hits a note
+function goodNoteHit(id, noteData, noteType, isSustainNote) {
+    // id: The note's ID
+    // noteData: The direction (0 = Left, 1 = Down, 2 = Up, 3 = Right)
+    // noteType: String name of a custom note type
+    // isSustainNote: Boolean (true if it's a long hold note)
+    
+    if (!isSustainNote) {
+        // Example: Add extra score for every normal note hit
+        // game.songScore += 10;
+    }
+}
+
+// opponentNoteHit is called when the opponent hits a note
+function opponentNoteHit(id, noteData, noteType, isSustainNote) {
+    // Example: Shake the screen slightly when the opponent sings
+    // game.camGame.shake(0.01, 0.1);
+}
